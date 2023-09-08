@@ -17,21 +17,20 @@ def wait():
 def get_boat_data(driver, url):
     driver.get(url)
     wait()
-    boat_data_div = driver.find_element(By.CLASS_NAME, 'table-light')
-    boat_data_rows = boat_data_div.text.split('\n')
+    boat_data_div = driver.find_elements(By.CLASS_NAME, 'table-light')
 
     boat_data = {}
 
-    header = []
-    data = []
+    for table in boat_data_div:
+        boat_data_rows = table.text.split('\n')
 
-    for row in boat_data_rows:
-        row_data = row.split(':')
-        header.append(row_data[0])
-        data.append(row_data[1])
-        boat_data[row_data[0]] = row_data[1]
+        for row in boat_data_rows:
+            row_data = row.split(':')
 
-    df_boat_data = pandas.DataFrame(boat_data, index=[0])
+            if len(row_data) == 2:
+                boat_data[row_data[0]] = row_data[1]
+
+        df_boat_data = pandas.DataFrame(boat_data, index=[0])
 
     print(df_boat_data)
     return df_boat_data
