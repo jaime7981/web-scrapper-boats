@@ -5,7 +5,6 @@ import time, pandas
 
 def read_boats_urls(data_url):
     df = pandas.read_csv(data_url)
-    #df = pandas.read_excel(data_url)
     urls = df['url'].tolist()
     return urls
 
@@ -32,7 +31,6 @@ def get_boat_data(driver, url):
 
         df_boat_data = pandas.DataFrame(boat_data, index=[0])
 
-    print(df_boat_data)
     return df_boat_data
 
 
@@ -44,21 +42,16 @@ def main():
     boat_urls = read_boats_urls('boats_urls.csv')
 
     dataframe_list = []
-
     counter = 0
 
     for url in boat_urls:
+        print(f'Boat number: {counter}')
         boat_df = get_boat_data(driver, url)
         dataframe_list.append(boat_df)
 
-        counter += 1
-
-        if counter > 5:
-            break
-
     df = pandas.concat(dataframe_list, ignore_index=True)
     
-    print(df)
+    # print(df)
     df.to_csv('all_boats_data.csv', index=False)
 
 if __name__ == '__main__':

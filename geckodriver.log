@@ -2843,3 +2843,780 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFou
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1694128951648	Marionette	INFO	Stopped listening on port 22841
 Dynamically enable window occlusion 1
+1694186184678	geckodriver	INFO	Listening on 127.0.0.1:50486
+1694186187749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilezn1pRb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694186188253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694186188395	Marionette	INFO	Listening on port 50495
+WebDriver BiDi listening on ws://127.0.0.1:50487
+Read port: 50495
+1694186188707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50487/devtools/browser/c0cd09fb-4abf-4d7a-8711-2b654016154d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 789 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/343788857926653808/MAR-422-Bumper-VIN-728x90-V1/scripts/script.js, line 11: ReferenceError: blinking is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694186219104	geckodriver	INFO	Listening on 127.0.0.1:50577
+1694186222159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileInssW3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694186222595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694186222689	Marionette	INFO	Listening on port 50589
+WebDriver BiDi listening on ws://127.0.0.1:50578
+Read port: 50589
+1694186222915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50578/devtools/browser/335b2d2f-cd0e-4c91-8337-03b70bcbe920
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 7182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694186337620	geckodriver	INFO	Listening on 127.0.0.1:50681
+1694186340674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilebSqWTT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694186341113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694186341207	Marionette	INFO	Listening on port 50691
+WebDriver BiDi listening on ws://127.0.0.1:50682
+Read port: 50691
+1694186341429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50682/devtools/browser/2c648695-090a-4fde-9ccc-4309bd8bc813
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 5864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 107: Script terminated by timeout at:
+Fe.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:107:24
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+zf.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:115:115
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Tj/c/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:320
+Qa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:339
+Na.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:127
+Pa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+Tj/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:292
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+md/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 2010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 1608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 4147 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 71: Script terminated by timeout at:
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:842
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Tj/c/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:320
+Qa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:339
+Na.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:127
+Pa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+Tj/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:292
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+md/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 5039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3221 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 103: Script terminated by timeout at:
+je@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:103:834
+il/z<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:207:93
+Fe.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:107:144
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+m.pa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:114:219
+Vc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:86:1090
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Fe.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:107:248
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Lc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:601
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+zf.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:115:115
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Tj/c/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:320
+Qa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:339
+Na.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:127
+Pa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+Tj/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:292
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+md/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 4009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6477 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2090 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 49: Script terminated by timeout at:
+M@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:941
+zf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:49:1337
+Tf@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:55:257
+b@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:53:307
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 4858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 3891 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6033 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 43: Script terminated by timeout at:
+Qa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:302
+Na.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:147
+Pa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+Tj/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:182:292
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Cj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:362
+Aj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:173:1013
+Ma.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Cj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:371
+m.nd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+md/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 4693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 2003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YBinSErTekvxupjb6vinQNaPBzh8KEiIox6QinbqyX4.js line 2 > eval line 6474 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696274335317	geckodriver	INFO	Listening on 127.0.0.1:52818
+1696274338403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilePw0qzD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696274338828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696274338929	Marionette	INFO	Listening on port 52827
+WebDriver BiDi listening on ws://127.0.0.1:52819
+Read port: 52827
+1696274339172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52819/devtools/browser/a3f1bc6f-6676-494b-ab69-0817540e93b9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 3420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 1947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696274384518	Marionette	INFO	Stopped listening on port 52827
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+Dynamically enable window occlusion 1
+1696274759750	geckodriver	INFO	Listening on 127.0.0.1:52988
+1696274762809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileSEHr8F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696274763225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696274763316	Marionette	INFO	Listening on port 52997
+WebDriver BiDi listening on ws://127.0.0.1:52989
+Read port: 52997
+1696274763553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52989/devtools/browser/894e5472-8964-4732-a893-0ca96ae39bde
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 6996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275048517	Marionette	INFO	Stopped listening on port 52997
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+0.0.1:53084
+Read port: 53092
+1696274815865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53084/devtools/browser/8fc39728-f8b3-45d5-a37d-0b06f36ee538
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 4292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c, line 432: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:432:89
+get@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:87
+aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:412
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 42: Script terminated by timeout at:
+Qa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:381
+Ra@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:283
+dk/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:183:292
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+od/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275020526	Marionette	INFO	Stopped listening on port 53092
+Dynamically enable window occlusion 1
+/e.prototype._writeImpl@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:10:4276
+T</e.prototype.write@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:10:3839
+T@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:10:1988
+u@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:10:1357
+h@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:10:2364
+inject/<@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:20:12013
+each@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:3129
+each@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:1594
+inject@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:20:11960
+loadAjaxAds/<@https://sailboatdata.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.21.2:20:13348
+c@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:25266
+fireWith@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:26015
+l@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:77721
+o/<@https://sailboatdata.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0:2:80204
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+Dynamically enable window occlusion 1
+1696275009629	geckodriver	INFO	Listening on 127.0.0.1:53287
+1696275012666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileJnBfn6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275013085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275013174	Marionette	INFO	Listening on port 53298
+WebDriver BiDi listening on ws://127.0.0.1:53288
+Read port: 53298
+1696275013482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53288/devtools/browser/35876832-0b71-47a6-ad22-ed4f78030fd5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 5042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696275025204	Marionette	INFO	Stopped listening on port 53298
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275060039	geckodriver	INFO	Listening on 127.0.0.1:53373
+1696275063090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileI4jLC2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275063499	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275063591	Marionette	INFO	Listening on port 53381
+WebDriver BiDi listening on ws://127.0.0.1:53374
+Read port: 53381
+1696275063840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53374/devtools/browser/f605c77a-9fbb-4dfa-bd96-33374dee4607
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696275075326	Marionette	INFO	Stopped listening on port 53381
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275120049	geckodriver	INFO	Listening on 127.0.0.1:53467
+1696275123122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilefRjIwf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275123534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275123627	Marionette	INFO	Listening on port 53475
+WebDriver BiDi listening on ws://127.0.0.1:53468
+Read port: 53475
+1696275123858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53468/devtools/browser/6094df6e-ae98-415f-be87-f298266bd613
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275302986	Marionette	INFO	Stopped listening on port 53475
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+0.0.1:53550
+Read port: 53573
+1696275193016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53550/devtools/browser/ca6ecc05-e4f2-42aa-8eb2-393f6a0535f1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 210 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 5187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c, line 432: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:432:89
+get@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:87
+aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:412
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1696275304298	Marionette	INFO	Stopped listening on port 53573
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275393963	geckodriver	INFO	Listening on 127.0.0.1:53802
+1696275396998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileD5cdJW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275397469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275397564	Marionette	INFO	Listening on port 53812
+WebDriver BiDi listening on ws://127.0.0.1:53803
+Read port: 53812
+1696275397852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53803/devtools/browser/90946830-a98b-4b7c-8700-14f3dafe8a8b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275413449	Marionette	INFO	Stopped listening on port 53812
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275550018	geckodriver	INFO	Listening on 127.0.0.1:54056
+1696275553071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilenjzfIE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275553544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275553662	Marionette	INFO	Listening on port 54065
+WebDriver BiDi listening on ws://127.0.0.1:54057
+Read port: 54065
+1696275553998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54057/devtools/browser/c352b546-45a9-47a7-b3bc-73c3b12d03ff
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 5912 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c, line 432: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:432:89
+get@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:87
+aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:412
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1696275573577	Marionette	INFO	Stopped listening on port 54065
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275583646	geckodriver	INFO	Listening on 127.0.0.1:54139
+1696275586727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileZ3l2gP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275587131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275587225	Marionette	INFO	Listening on port 54147
+WebDriver BiDi listening on ws://127.0.0.1:54140
+Read port: 54147
+1696275587459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54140/devtools/browser/9639ffc8-6510-438a-8f3f-447bbb942fec
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 4907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275779200	Marionette	INFO	Stopped listening on port 54147
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+275623515	Marionette	INFO	Listening on port 54231
+WebDriver BiDi listening on ws://127.0.0.1:54221
+Read port: 54231
+1696275623742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54221/devtools/browser/3204fcae-42b8-4cde-8a3c-2e1409051e5e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 7109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275641886	Marionette	INFO	Stopped listening on port 54231
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696275651922	geckodriver	INFO	Listening on 127.0.0.1:54302
+1696275654997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilevZ3T1x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275655401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275655492	Marionette	INFO	Listening on port 54310
+WebDriver BiDi listening on ws://127.0.0.1:54303
+Read port: 54310
+1696275655724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54303/devtools/browser/1cc8c3db-b1e8-4627-8446-b853640527d3
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 5907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyJavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c, line 432: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:432:89
+get@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:87
+aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:412
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundErroJavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError1696275831743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilelNrcRN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275832162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275832255	Marionette	INFO	Listening on port 54614
+WebDriver BiDi listening on ws://127.0.0.1:54605
+Read port: 54614
+1696275832486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54605/devtools/browser/bae14add-cacd-483a-bd6c-2731b76c5606
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 7382 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+1696275943242	Marionette	INFO	Stopped listening on port 54614
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+0.0.1:54695
+Read port: 54703
+1696275871144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54695/devtools/browser/bd4678fc-df63-470d-aad6-964a716eb662
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 4849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts1696275944212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilewpJETl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696275944654	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696275944757	Marionette	INFO	Listening on port 54807
+WebDriver BiDi listening on ws://127.0.0.1:54800
+Read port: 54807
+1696275944942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54800/devtools/browser/552d72e2-1490-46ac-b82e-a6b376bbf7ec
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 2576 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696275966009	Marionette	INFO	Stopped listening on port 54807
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696276110999	geckodriver	INFO	Listening on 127.0.0.1:54921
+1696276114051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilel0hZOm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696276114452	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696276114542	Marionette	INFO	Listening on port 54931
+WebDriver BiDi listening on ws://127.0.0.1:54922
+Read port: 54931
+1696276114781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54922/devtools/browser/4565fc86-d1d2-465d-9ae5-9b54da5a7564
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 2933 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696276138239	Marionette	INFO	Stopped listening on port 54931
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696276173427	geckodriver	INFO	Listening on 127.0.0.1:55016
+1696276176507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilergoC4j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696276176908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696276176998	Marionette	INFO	Listening on port 55024
+WebDriver BiDi listening on ws://127.0.0.1:55017
+Read port: 55024
+1696276177242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55017/devtools/browser/5e513f6a-9287-4cd1-adf3-25f8f18dd7e8
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 3788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696276186717	Marionette	INFO	Stopped listening on port 55024
+JavaScript warning: https://s0.2mdn.net/879366/Enabler_01_250.js, line 117: Script terminated by timeout at:
+Cg.prototype.B@https://s0.2mdn.net/879366/Enabler_01_250.js:117:663
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696276216779	geckodriver	INFO	Listening on 127.0.0.1:55103
+1696276219815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileswCXUK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696276220226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696276220316	Marionette	INFO	Listening on port 55111
+WebDriver BiDi listening on ws://127.0.0.1:55104
+Read port: 55111
+1696276220553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55104/devtools/browser/fd727bb7-62a3-4435-934e-db7728f58a5c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5910 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696276333153	Marionette	INFO	Stopped listening on port 55111
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696276349167	geckodriver	INFO	Listening on 127.0.0.1:55197
+1696276352217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofilexGHvFy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696276352650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696276352744	Marionette	INFO	Listening on port 55208
+WebDriver BiDi listening on ws://127.0.0.1:55198
+Read port: 55208
+1696276352981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55198/devtools/browser/35d666dc-e063-4f51-8a59-e853f50ba52e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sailboatdata.com/cdn-cgi/scripts1696276743146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofile15HoiS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696276743567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696276743660	Marionette	INFO	Listening on port 55353
+WebDriver BiDi listening on ws://127.0.0.1:55346
+Read port: 55353
+1696276743898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55346/devtools/browser/e644f0ae-ad90-4b02-b593-b93dcebba6d0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696276998399	Marionette	INFO	Stopped listening on port 55353
+Dynamically enable window occlusion 1
+resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1696276741128	Marionette	INFO	Stopped listening on port 55208
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696277059988	geckodriver	INFO	Listening on 127.0.0.1:55477
+1696277063051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofile0hl0vf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696277063458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696277063549	Marionette	INFO	Listening on port 55485
+WebDriver BiDi listening on ws://127.0.0.1:55478
+Read port: 55485
+1696277063792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55478/devtools/browser/98f428c0-1666-4e4a-899b-926c4e4d9b02
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 6638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696277336356	Marionette	INFO	Stopped listening on port 55485
+Dynamically enable window occlusion 1
+1696277479510	geckodriver	INFO	Listening on 127.0.0.1:55843
+1696277482598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofileHIh5Dc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696277483005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696277483105	Marionette	INFO	Listening on port 55852
+WebDriver BiDi listening on ws://127.0.0.1:55844
+Read port: 55852
+1696277483343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55844/devtools/browser/6bd2fb53-c0f6-48f4-a4b1-6b8ebee7af9b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 2566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2957 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 7800 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696277758449	Marionette	INFO	Stopped listening on port 55852
+Dynamically enable window occlusion 1
+1696278630254	geckodriver	INFO	Listening on 127.0.0.1:56366
+1696278633274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jaime\\AppData\\Local\\Temp\\rust_mozprofile4TSPVR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696278633737	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696278633836	Marionette	INFO	Listening on port 56375
+WebDriver BiDi listening on ws://127.0.0.1:56367
+Read port: 56375
+1696278634092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56367/devtools/browser/90ea9a42-c141-4d75-a703-025fe527aaee
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 5289 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 225: Script terminated by timeout at:
+Bm/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:225:483
+Nc.prototype.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:84:513
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+dk/c/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:183:320
+Sa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:339
+Pa.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:127
+Ra@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+dk/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:183:292
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+od/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3435 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 6265 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2969 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 2346 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 79: Script terminated by timeout at:
+m.ph@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:79:1810
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+dk/c/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:183:320
+Sa@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:339
+Pa.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:127
+Ra@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:330
+dk/c/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:183:292
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+Mj/</</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:362
+Kj/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:174:1013
+Oa.prototype.La/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:42:162
+Mj/</</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:175:371
+m.od@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:74:425
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:439
+m.m@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:223
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:71:859
+od/</<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:671
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 198 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c, line 432: Script terminated by timeout at:
+aa.ph@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:432:42
+get@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:87
+aa.wk/c/<@https://www.googletagmanager.com/gtag/js?id=G-YQWPYRJ7G2&l=dataLayer&cx=c:430:412
+c@https://sailboatdata.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1696278712299	Marionette	INFO	Stopped listening on port 56375
+Dynamically enable window occlusion 1
