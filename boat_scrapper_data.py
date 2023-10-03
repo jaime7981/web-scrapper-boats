@@ -10,7 +10,7 @@ def read_boats_urls(data_url):
 
 
 def wait():
-    time.sleep(randint(2, 4))
+    time.sleep(0.5)
 
     
 def get_boat_data(driver, url):
@@ -42,12 +42,18 @@ def main():
     boat_urls = read_boats_urls('boats_urls.csv')
 
     dataframe_list = []
-    counter = 0
+    counter = 1
 
     for url in boat_urls:
         print(f'Boat number: {counter}')
         boat_df = get_boat_data(driver, url)
         dataframe_list.append(boat_df)
+        counter += 1
+
+        if counter % 500 == 0:
+            df = pandas.concat(dataframe_list, ignore_index=True)
+            df.to_csv(f'all_boats_data_{counter}.csv', index=False)
+            dataframe_list = []
 
     df = pandas.concat(dataframe_list, ignore_index=True)
     
